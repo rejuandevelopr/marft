@@ -1,0 +1,294 @@
+@media screen and (max-width:1400px) {
+
+    .carousel-indicators button{
+        width: 18px !important;
+        height: 1px !important;
+        margin-right: 10px !important;
+    }
+    .navbar-brand{
+        margin-right: 400px;
+    }
+    
+}
+@media screen and (max-width:1200px){
+    .navbar-brand{
+        margin-right: 314px;
+    }
+    .carousel-indicators{
+        left: 230px !important;
+        top: 400px !important;
+    }
+
+
+
+    .about .col-xl-7{
+        text-align: center;
+    }
+    .about .col-xl-7 img:last-child{
+        left: 500px;
+    }
+    .footer-hr{
+        margin-top: 35px;
+    }
+}
+@media screen and (max-width:768px){
+    .hero{
+        padding-top: 23px;
+        padding-bottom: 54px;
+    }
+    .hero-hr{
+        margin-bottom: 0px;
+    }
+    .content-h{
+        padding-top: 22px;
+    }
+    .first-s{
+        text-align: center;
+    }
+    .about .col-xl-7 img:last-child{
+        left: 368px;
+    }
+    .carousel-indicators{
+        left: 325px !important;
+        top: 270px !important;
+    }
+
+}
+@media screen and (max-width:576px){
+    .about .col-xl-7 img:last-child{
+        left: 290px;
+        height: 300px;
+    }
+    .carousel-indicators{
+        left: 204px !important;
+        top: 365px !important;
+    }
+    .company{
+        text-align: center !important;
+    }
+}
+@media screen and (max-width:500px) {
+    .content-h{
+        padding-top: 5px;
+    }
+    .first-s .col-lg-6{
+        padding: 5px;
+    }
+    .first-s .col-lg-6 .img-fluid{
+        max-width: 75%;
+        height: 400px;
+    }
+    .company .col-md-4{
+        padding: 5px;
+    }
+    .trust{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .carousel-indicators{
+        left: 108px !important;
+        top: 385px !important;
+    }
+    .about .col-xl-7 .img-fluid{
+        max-width: 70%;
+        height: auto;
+    }
+    .about{
+        padding-top: 60px;
+    }
+    .about .col-xl-7 img:last-child{
+        left: 225px;
+        height: 200px;
+    }
+    .provide{
+        padding-top: 60px;
+        padding-bottom: 50px;
+
+    }
+    .slack{
+        padding-bottom: 20px;
+    }
+    .slack .col-lg-5 img:first-child{
+        width: 360px;
+    }
+    .blog{
+        padding-top: 80px;
+    }
+    .blog .blog-one img:nth-child(3){
+        width: 360px;
+    }
+    .blog .blog-two img:nth-child(2){
+        width: 360px;
+    } 
+    .footer{
+        padding-top: 40px;
+    }
+}
+
+@media screen and (max-width:400px){
+    .content-h{
+        padding-top: 5px;
+    }
+    .first-s .col-lg-6{
+        padding: 5px;
+    }
+    .first-s .col-lg-6 .img-fluid{
+        max-width: 75%;
+        height: 400px;
+    }
+    .company .col-md-4{
+        padding: 5px;
+    }
+    .trust{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .video img:last-child{
+        height: 70px;
+    }
+    .carousel-indicators{
+        left: 108px !important;
+        top: 385px !important;
+    }
+    .about .col-xl-7 .img-fluid{
+        max-width: 70%;
+        height: auto;
+    }
+    .about{
+        padding-top: 60px;
+    }
+    .about .col-xl-7 img:last-child{
+        left: 225px;
+        height: 200px;
+    }
+    .provide{
+        padding-top: 60px;
+        padding-bottom: 50px;
+
+    }
+    .slack{
+        padding-bottom: 20px;
+    }
+    .slack .col-lg-5 img:first-child{
+        width: 360px;
+    }
+    .blog{
+        padding-top: 80px;
+    }
+    .blog .blog-one img:nth-child(3){
+        width: 360px;
+    }
+    .blog .blog-two img:nth-child(2){
+        width: 360px;
+    } 
+    .footer{
+        padding-top: 40px;
+    }
+}
+
+@media screen and (max-width:350px){
+    .hero .content-h h1{
+        font-size: 60px;
+    }
+    .ready h4{
+        font-size: 60px;
+    }
+    .content-h{
+        padding-top: 4px;
+    }
+    .first-s .col-lg-6{
+        padding: 7px;
+    }
+    .first-s .col-lg-6 .img-fluid{
+        max-width: 55%;
+        height: 350px;
+    }
+    .company .col-md-4{
+        padding: 7px;
+    }
+    .trust{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .carousel-indicators{
+        left: 85px !important;
+        top: 385px !important;
+    }
+    .about .col-xl-7 .img-fluid{
+        max-width: 50%;
+        height: auto;
+    }
+    .about{
+        padding-top: 50px;
+    }
+    .about .col-xl-7 img:last-child{
+        left: 175px;
+        height: 180px;
+    }
+    .provide{
+        padding-top: 50px;
+        padding-bottom: 50px;
+
+    }
+    .video img:last-child{
+        height: 70px;
+    }
+    .slack{
+        padding-bottom: 15px;
+    }
+    .slack .col-lg-5 img:first-child{
+        width: 260px;
+    }
+    .blog{
+        padding-top: 60px;
+    }
+    .blog .blog-one img:nth-child(3){
+        width: 260px;
+    }
+    .blog .blog-two img:nth-child(2){
+        width: 260px;
+    } 
+    .footer{
+        padding-top: 30px;
+    }
+    .ready h4{
+        font-size: 60px;
+    }
+    .slack .col-lg-5 img:first-child{
+        width: 325px !important;
+    }
+    .about .col-xl-7 img:last-child{
+        left: 175px !important;
+        height: 188px !important;
+    }
+    .hero .content-h h1 {
+        font-size: 50px;
+    }
+    .blog .blog-one img:nth-child(3){
+        width: 325px !important;
+    }
+    .blog .blog-two img:nth-child(2){
+        width: 325px !important ;
+    }
+}
+
+@media screen and (max-width:300px){
+    .carousel-indicators{
+        left: 64px !important;
+        top: 592px !important;
+    }
+
+    .video img:last-child{
+        height: 70px;
+    }
+    .about .col-xl-7 img:last-child {
+        left: 152px;
+        height: 140px;
+        top: 35px;
+    }
+    .trust-c{
+        height: 190px;
+    }
+    
+    
+}
